@@ -19,7 +19,7 @@
 # can cache its inverse.
 #
 #################################################################
-makeCacheMatrix <- function(x = matrix()) {
+makeCacheMatrix <- function(x) = matrix()) {
     m <- NULL
     set <- function(y) {
         x <<- y
