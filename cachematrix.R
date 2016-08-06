@@ -1,9 +1,5 @@
 #################################################################
 #
-# PGA
-# Programming Assignment 2 : Lexical Scoping
-# Problem 1
-#
 # Remember:
 #
 # The <<- operator is used to assign a value to an object in an
@@ -33,10 +29,6 @@ makeCacheMatrix <- function(x) = matrix()) {
          getsolve = getsolve)
 }
 #################################################################
-#
-# PGA
-# Programming Assignment 2 : Lexical Scoping
-# Problem 2
 #
 # cacheSolve() calculates the inverse of the special "matrix"
 # returned by makeCacheMatrix(). If the inverse has already
