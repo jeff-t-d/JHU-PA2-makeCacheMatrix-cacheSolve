@@ -6,8 +6,6 @@ The `<<-` operator is used to assign value to an object in an external environme
 
 The solve() function is used to calculate the inverse of a hypothetical invertible matrix.
 
-For in-depth documentation, see the corresponding .R file.
-
 ### Repository contents:
 
 makeCacheMatrix.R : makeCacheMatrix(x) - Creates a matrix and can cache its inverse. The type of object it creates & caches can be easily modified.
