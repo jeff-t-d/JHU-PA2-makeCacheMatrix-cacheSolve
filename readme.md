@@ -8,7 +8,7 @@ The solve() function is used to calculate the inverse of a hypothetical invertib
 
 For in-depth documentation, see the corresponding .R file.
 
-### Repository conents:
+### Repository contents:
 
 makeCacheMatrix.R : makeCacheMatrix(x) - Creates a matrix and can cache its inverse. The type of object it creates/caches can be easily modified.
 
