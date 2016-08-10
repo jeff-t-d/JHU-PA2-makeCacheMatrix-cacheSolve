@@ -12,4 +12,4 @@ For in-depth documentation, see the corresponding .R file.
 
 makeCacheMatrix.R : makeCacheMatrix(x) - Creates a matrix and can cache its inverse. The type of object it creates/caches can be easily modified.
 
-cacheSolve.R : cacheSolve(x, ...) - Computes the inverse of the matrix returned by makeCacheMatrix(). If the inverse has already been calculated, and the matrix has not changed, it retrieves the inverse from the cache. The initial computation and cachesearch can be easily modified.
+cacheSolve.R : cacheSolve(x, ...) - Computes the inverse of the matrix returned by makeCacheMatrix(). If the inverse has already been calculated, and the matrix has not changed, it retrieves the inverse from the cache. The initial computation and cache retrieval can be easily modified.
