@@ -13,7 +13,7 @@
 # makeCacheMatrix(x)
 #
 #################################################################
-makeCacheMatrix <- function(x) = matrix()) {
+makeCacheMatrix <- function(x = matrix()) {
     m <- NULL
     set <- function(y) {
         x <<- y
